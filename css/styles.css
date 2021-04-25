@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
+
+body {
+  background-image: url("../assets/img-home.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.card-form {
+  background: rgb(255, 255, 255, 0.8)
+}
